@@ -1,5 +1,5 @@
 #!/bin/bash
-#Jangan Lupa Subscribe Muslim1140
+#Jangan Lupa Subscribe Ariel Sandy Permana
 
 #Variables
 b="\033[1m"
@@ -19,12 +19,12 @@ red="\033[1;31m"
 
 clear
 
-figlet Muslim | lolcat
+figlet Ariel SP | lolcat
 
 echo "_________________________________________________"
-echo "Tools    : Muslim1140 Tools $white                         " |lolcat
-echo "Creadby  : MUSL1M $white                                      " |lolcat
-echo "Contact  : 082352058894  $white                             " |lolcat
+echo "Tools    : Cyber Tools $white                         " |lolcat
+echo "Creadby  : Ariel Sandy $white                                      " |lolcat
+echo "WhatsApp  : 083100231366  $white                             " |lolcat
 echo "_________________________________________________"
 
 ###################################################
@@ -57,8 +57,8 @@ echo $c "6.  TOMBOL SPESIAL${endc}";
 echo "============================" | lolcat
 echo $ "00. Exit${endc}";
 echo ""
-echo "╭─MUSL1M GANS" |lolcat
-read -p "╰─PILIH NOMOR " pil;
+echo "╭─ARIEL GANS" |lolcat
+read -p "╰─Nomer Berapa? " pil;
 
 # DDOSATTACK
 
