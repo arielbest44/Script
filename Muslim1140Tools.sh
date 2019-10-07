@@ -55,6 +55,8 @@ echo $r "5.  CRATE VIRUS${endc}";
 echo "============================" | lolcat
 echo $c "6.  TOMBOL SPESIAL${endc}";
 echo "============================" | lolcat
+echo $r "7.  HACK FACEBOOK TARGET${endc}";
+echo "============================" | lolcat
 echo $ "00. Exit${endc}";
 echo ""
 echo "╭─ARIEL GANS" |lolcat
