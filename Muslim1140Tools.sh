@@ -19,7 +19,7 @@ red="\033[1;31m"
 
 clear
 
-figlet Ariel SP | lolcat
+figlet Ariel 69 | lolcat
 
 echo "_________________________________________________"
 echo "Tools    : Cyber Tools $white                         " |lolcat
@@ -540,8 +540,19 @@ python2 run.py
 ;;
 
 
+# Hack FB Target
 
-00) echo "created by : MUSL1M GANS" | lolcat
+7) pkg install git
+git clone https://github.com/sixtysix-Team/fbbrute
+cd fbbrute
+ls
+python2 force.py
+
+
+;;
+
+
+00) echo "created by : Ariel Gans" | lolcat
 exit
 ;;
 
