@@ -16,6 +16,7 @@ enda="\033[0m"
 blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
+python wk.py
 
 clear
 
